@@ -1,0 +1,4 @@
+# rollout.agent.agent_loop_config_path; `name` must match the parquet's `agent_name` column.
+- name: frame_tool_agent
+  _target_: lerf.agent.frame_tool_agent_loop.FrameToolAgentLoop
+  think_budget: ${oc.env:LERF_THINK_BUDGET,10240}

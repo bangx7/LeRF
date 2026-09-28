@@ -1,0 +1,5 @@
+# rollout.multi_turn.tool_config_path
+tools:
+  - class_name: lerf.tools.draw_reference_frame_tool.DrawReferenceFrameTool
+    config:
+      type: native

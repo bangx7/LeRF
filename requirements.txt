@@ -1,0 +1,13 @@
+# LeRF runs on the bundled verl, so most dependencies come from verl itself.
+# Install PyTorch / vLLM / flash-attn first (see README), then: pip install -r requirements.txt
+
+# verl dependencies (transformers, ray, tensordict, TransferQueue, ...)
+-r verl/requirements.txt
+
+# Qwen3.5 multimodal training
+qwen-vl-utils
+flash-linear-attention
+
+# inference client (tool/inference.py)
+pillow
+requests
