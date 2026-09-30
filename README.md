@@ -163,4 +163,14 @@ Built on [verl](https://github.com/verl-project/verl) (Apache-2.0; see `verl/LIC
 
 ## Citation
 
-Comming soon
+```bibtex
+@misc{xiao2026lerflearningreferencecoordinate,
+      title={LeRF: Learning Reference Coordinate Frames for Perspective Taking Reasoning}, 
+      author={Bang Xiao and Wenqi Jia and Ozgur Kara and Tiancheng Shen and Yibo Yang and Bolin Lai and Junho Kim and James Matthew Rehg},
+      year={2026},
+      eprint={2609.36219},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2609.36219}, 
+}
+```
