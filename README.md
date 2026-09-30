@@ -14,7 +14,7 @@
 
 <sup>\^</sup>Corresponding authors
 
-[🏠 Homepage](https://lerf-project.github.io/) · [🤗 Models](https://huggingface.co/collections/SamuelBang/lerf)
+[🏠 Homepage](https://lerf-project.github.io/) · [📄 Paper](https://arxiv.org/abs/2609.36219) · [🤗 Models](https://huggingface.co/collections/SamuelBang/lerf) 
 
 </div>
 
